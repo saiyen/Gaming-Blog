@@ -1,0 +1,9 @@
+C:\Users\Saiyen\Documents\Visual Studio 2017\Projects\Blogger\Blogger.Core\bin\Release\netcoreapp2.0\Blogger.Core.deps.json
+C:\Users\Saiyen\Documents\Visual Studio 2017\Projects\Blogger\Blogger.Core\bin\Release\netcoreapp2.0\Blogger.Core.dll
+C:\Users\Saiyen\Documents\Visual Studio 2017\Projects\Blogger\Blogger.Core\bin\Release\netcoreapp2.0\Blogger.Core.pdb
+C:\Users\Saiyen\Documents\Visual Studio 2017\Projects\Blogger\Blogger.Core\obj\Release\netcoreapp2.0\Blogger.Core.csprojResolveAssemblyReference.cache
+C:\Users\Saiyen\Documents\Visual Studio 2017\Projects\Blogger\Blogger.Core\obj\Release\netcoreapp2.0\Blogger.Core.csproj.CoreCompileInputs.cache
+C:\Users\Saiyen\Documents\Visual Studio 2017\Projects\Blogger\Blogger.Core\obj\Release\netcoreapp2.0\Blogger.Core.AssemblyInfoInputs.cache
+C:\Users\Saiyen\Documents\Visual Studio 2017\Projects\Blogger\Blogger.Core\obj\Release\netcoreapp2.0\Blogger.Core.AssemblyInfo.cs
+C:\Users\Saiyen\Documents\Visual Studio 2017\Projects\Blogger\Blogger.Core\obj\Release\netcoreapp2.0\Blogger.Core.dll
+C:\Users\Saiyen\Documents\Visual Studio 2017\Projects\Blogger\Blogger.Core\obj\Release\netcoreapp2.0\Blogger.Core.pdb

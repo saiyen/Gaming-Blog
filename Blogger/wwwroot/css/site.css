@@ -1,0 +1,24 @@
+﻿body {
+    background-color: white;
+}
+
+/* Navbar */
+.navbar {
+    margin-bottom: 0px;
+}
+
+/* Footer */
+.footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    /* Set the fixed height of the footer here */
+    height: 30px;
+    line-height: 30px; /* Vertically center the text there */
+    background-color: black;
+}
+
+/* Achtergrond voor het midden-gedeelte*/
+.green-background {
+    background-color: #39e600;
+}

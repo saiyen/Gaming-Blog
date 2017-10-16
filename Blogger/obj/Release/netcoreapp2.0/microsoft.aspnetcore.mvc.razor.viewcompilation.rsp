@@ -1,0 +1,8 @@
+C:\Users\Saiyen\Documents\Visual Studio 2017\Projects\Blogger\Blogger
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=Blogger
+--content-root=C:\Users\Saiyen\Documents\Visual Studio 2017\Projects\Blogger\Blogger
+--file=C:\Users\Saiyen\Documents\Visual Studio 2017\Projects\Blogger\Blogger\Views\Home\About.cshtml
+--file=C:\Users\Saiyen\Documents\Visual Studio 2017\Projects\Blogger\Blogger\Views\Home\Index.cshtml
+--file=C:\Users\Saiyen\Documents\Visual Studio 2017\Projects\Blogger\Blogger\Views\Shared\_Layout.cshtml
+--file=C:\Users\Saiyen\Documents\Visual Studio 2017\Projects\Blogger\Blogger\Views\_ViewStart.cshtml
